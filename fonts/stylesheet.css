@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Exotica';
+    src: url('Exotica-Regular.eot');
+    src: url('Exotica-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Exotica-Regular.woff2') format('woff2'),
+        url('Exotica-Regular.woff') format('woff'),
+        url('Exotica-Regular.ttf') format('truetype'),
+        url('Exotica-Regular.svg#Exotica-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kazimir';
+    src: url('Kazimir-Regular.eot');
+    src: url('Kazimir-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Kazimir-Regular.woff2') format('woff2'),
+        url('Kazimir-Regular.woff') format('woff'),
+        url('Kazimir-Regular.ttf') format('truetype'),
+        url('Kazimir-Regular.svg#Kazimir-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
